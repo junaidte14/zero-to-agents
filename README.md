@@ -1,6 +1,6 @@
 # 🚀 From Zero to Agents: Deconstructing the AI Revolution
 
-> **Episode 001** — *Welcome & Course Blueprint: How We Will Build Modern AI from Scratch*
+> **Episode 00** — *Welcome & Course Blueprint: How We Will Build Modern AI from Scratch*
 
 Welcome to **From Zero to Agents**, a comprehensive educational series designed to take you from the mathematical foundations of Artificial Intelligence all the way to building modern **Large Language Models (LLMs)** and **Agentic AI Systems** from first principles.
 
