@@ -78,6 +78,8 @@ Not a rigorous equation yet — a ratio to keep in your head. Skilled-but-narrow
 
 ## 3. Code: telling "solves the spec" apart from "generalizes beyond it"
 
+**Don't worry if you are not able to completely grasp the code at this stage, we will come to this part later with more details and explanations.**
+
 Two tiny systems. Both will "satisfy requirements" on their training cases. Only one will handle a case it never saw.
 
 **3.1 From scratch — a pure lookup-table "solver" (zero generalization)**
