@@ -6,7 +6,7 @@
 
 ## 0. Where we're starting from
 
-Last episode ended with a question. Here's a definition worth pressure-testing (a very common first instinct — you gave a version of it yourself):
+Last episode ended with a question. Here's a definition worth pressure-testing (a very common first instinct — someone may say):
 
 > A system is intelligent if it can analyze requirements and produce a solution that matches them.
 
@@ -175,3 +175,9 @@ That's Episode 00.02, and it's the actual on-ramp into Module 01.
 
 **Previous:** Episode 00.00 — Course Introduction and Methodology
 **Next:** Episode 00.02 — From Words to Numbers: The Representation Problem
+
+## 6. Reference Papers/Books:
+- https://courses.cs.umbc.edu/471/papers/turing.pdf
+- http://lib.ysu.am/disciplines_bk/efdd4d1d4c2087fe1cbe03d9ced67f34.pdf
+- https://arxiv.org/pdf/1911.01547
+- https://www.vetta.org/documents/Machine_Super_Intelligence.pdf
