@@ -103,4 +103,3 @@ That's worth returning to directly, with a properly designed experiment, before 
 ---
  
 **Previous:** Episode 05.04 — Catastrophic Forgetting
-**Next:** To be determined — a corrected version of this episode's experiment, further Module 05 territory, or the flagged research directions, your call

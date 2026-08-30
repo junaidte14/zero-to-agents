@@ -66,4 +66,3 @@ Seven episodes into Module 05: LoRA's mechanism and its match to full fine-tunin
 ---
  
 **Previous:** Episode 05.05 — Loss Masking: Training Only on What the Model Should Actually Generate
-**Next:** To be determined — further Module 05 territory (evaluation methodology for fine-tuned models) or the flagged research directions, your call
